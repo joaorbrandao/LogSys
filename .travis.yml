@@ -1,0 +1,5 @@
+language: ccpp
+compiler:
+- g++
+script:
+g++ test.cpp LogSys.cpp -o test
