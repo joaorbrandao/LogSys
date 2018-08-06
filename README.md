@@ -26,7 +26,7 @@ To use this project, choose one of the following options to get started:
 
 // ...
 
-Logger LogSys;
+LogSys logger;
 
 logger.init("test.log");
 ```
@@ -50,7 +50,7 @@ logger.info("Hello wordl!");
 ```console
 ./test.out
 ```
-![alt text](https://github.com/joaorbrandao/LogSys/blob/img/test_result.png "Test result.")
+![alt text](https://github.com/joaorbrandao/LogSys/blob/master/img/test_result.png "Test result.")
 
 
 
