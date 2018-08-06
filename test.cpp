@@ -3,10 +3,13 @@
 
 int main() {
 
-  LogSys logger = LogSys();
+  LogSys logger;
   
   logger.init("test.log");
-  logger.info("Hello World! :)");
+  logger.info("Testing INFO         ...OK");
+  logger.success("Testing SUCCESS   ...OK");
+  logger.warning("Testing WARNING   ...OK");
+  logger.error("Testing ERROR       ...OK");
 
   return 0;
 }
