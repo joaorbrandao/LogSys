@@ -1,6 +1,6 @@
 # LogSys 
 [![GitHub license](https://img.shields.io/github/license/joaorbrandao/LogSys.svg)](https://github.com/joaorbrandao/LogSys/blob/master/LICENSE)
-[![Build Status](https://travis-ci.org/joaorbrandao/LogSys.svg?branch=master)](https://travis-ci.org/joaorbrandao/LogSys)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/29b028337fb74d6a9873eac03591f1e0)](https://www.codacy.com/project/joaorbrandao/LogSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=joaorbrandao/LogSys&amp;utm_campaign=Badge_Grade_Dashboard)
 
 
 **A C++ logger for people.**
