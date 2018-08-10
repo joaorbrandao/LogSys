@@ -1,5 +1,5 @@
-language: ccpp
+language: cpp
 compiler:
 - g++
 script:
-g++ test.cpp LogSys.cpp -o test
+g++ -o test.out -Wall test.cpp LogSys.cpp
