@@ -28,6 +28,7 @@ To use this project, choose one of the following options to get started:
 
 Logger LogSys;
 
+// Call init if you want to log to a file too
 logger.init("test.log");
 ```
 
@@ -64,8 +65,6 @@ Have a bug or an issue with this library? [Open a new issue](https://github.com/
 
 This project was created by :<br>
 [**João Brandão**](https://joaorbrandao.github.io)
-
-* https://github.com/joaorbrandao
 
 
 

@@ -1,5 +1,6 @@
 #include <iostream>
-#include "LogSys.h"
+//#include "LogSys.h"
+#include "header-only/LogSys.h"
 
 int main() {
 
